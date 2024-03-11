@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## I'm beginner Software Engeneer
+## Full Stack Software Developer
 
 😄About me
-✌️My name is Denis, I am 23 years old. I have been programming for about 1 year, trying different technologies.
+✌️My name is Denis, I am 23 years old. I have been programming for about 5 years, trying different technologies.
 
 🎓I have a degree in software engineering.
 
@@ -23,6 +23,8 @@ Now I'm doing small personal projects.
 ![Angular](https://img.shields.io/badge/-Angular-090909?style=for-the-badge&logo=Angular&logoColor=FC0C0C)
 
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS&logoColor=E5398F)
+
+![VUE](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SASS&logoColor=E5398F)
 
 
 
