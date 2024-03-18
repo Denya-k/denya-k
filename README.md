@@ -101,7 +101,7 @@ Welcome to my page!
 
 ### 🌱 Responsibilities
 
-- Project Managing, Team Lead, Develop full project from wireframe with high-quality code.
+- Full stack developer across frontend and backend, Develop full project from wireframe with high-quality code.
 - Well-Structured and maintainable application development based on flexible workflow.
 - 24/7 Support with perfect communication and flexible on any Time-Zone.
 - Creativity Idea Suggestion.
