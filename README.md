@@ -110,7 +110,7 @@ Welcome to my page!
 - Passionate Self-Studying, Fast Learner.
 
 <!--![Current stats](https://github-readme-stats.vercel.app/api?username=dominayo&show_icons=true&count_private=true&theme=vue-dark&&custom_title=Current%20Status)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominayo&theme=vue-dark)](https://github.com/dominayo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Denya-k&theme=vue-dark)](https://github.com/Denya-k)
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
